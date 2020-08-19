@@ -1,6 +1,6 @@
 # Noter
 
-A simple terminal notepad made in python
+A simple terminal notepad made in python. (Using it to take my notes for as long as I have classes online 😂)
 
 ## Installation
 
@@ -21,6 +21,13 @@ python3 main.py
 ```
 
 ## Usage
+
+```
+Notes (↑/↓)
+> New Note
+  Delete Note
+  Exit
+```
 
 The interface is very simple, on the main menu you can press the UP/DOWN or the J/K keys to navigate to your selected entry. The actual interface was **NOT** created by me, go see the amazing work [here (IngoMeyer441/simple-term-menu)](https://github.com/IngoMeyer441/simple-term-menu).
 
