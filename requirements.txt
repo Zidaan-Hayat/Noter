@@ -1,0 +1,5 @@
+# For colorful printing
+termcolor
+
+# For the main menu
+simple_term_menu
